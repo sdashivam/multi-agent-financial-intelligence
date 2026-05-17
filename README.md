@@ -306,44 +306,6 @@ kubectl apply -f deployment/
 
 --------------------------------------------------------------------------------
 
-# Future Development Roadmap
-
-## Phase 1 — Advanced Agent Intelligence
-
-- Dynamic agent selection
-- Multi-step adaptive reasoning
-- Autonomous task prioritization
-- Agent performance scoring
-
-## Phase 2 — Enterprise AI Enhancements
-
-- RBAC-based governance layer
-- Policy-aware response filtering
-- Advanced audit logging
-- Enterprise workflow approvals
-
-## Phase 3 — Retrieval & Memory Optimization
-
-- Graph-based retrieval
-- Long-context memory handling
-- Retrieval compression strategies
-- Cross-session contextual learning
-
-## Phase 4 — Real-Time AI Infrastructure
-
-- Streaming inference support
-- Event-driven processing
-- Kafka-based async orchestration
-- Distributed inference scaling
-
-## Phase 5 — Multi-Modal Intelligence
-
-- PDF + image reasoning
-- Chart and table understanding
-- OCR-enhanced document parsing
-- Visual financial analytics
-
---------------------------------------------------------------------------------
 
 # Use Cases
 
@@ -354,8 +316,6 @@ kubectl apply -f deployment/
 - Knowledge retrieval systems
 - AI-assisted analyst workflows
 - Enterprise document intelligence
-
---------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 
